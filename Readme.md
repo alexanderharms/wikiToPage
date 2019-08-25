@@ -1,0 +1,1 @@
+This script can be used to automatically upload the wiki-pages of a Github Pages repository to the actual repository part. This allows people to access the wiki part of the repository through a more easily accesible link and also to add information through a web interface.
