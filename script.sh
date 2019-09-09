@@ -3,6 +3,7 @@
 # Clear page folder except _config.yml and index.md
 echo "Clearing page folder..." 
 cd ../sevennewbookshelves.github.io
+git pull origin master
 
 for f in *
 do
